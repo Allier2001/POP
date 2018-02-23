@@ -1,2 +1,0 @@
-# POP
-Primer clase git
